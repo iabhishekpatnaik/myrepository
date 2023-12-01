@@ -1,2 +1,2 @@
 hello guys.... welcome
-commiting from feature branch correctly
+committing from feature2 branch correctly
