@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 file3 in SIT
+=======
+file3 in Dev
+updating file3 by Dev2
+>>>>>>> e053228 (Modifying files by Dev2)
