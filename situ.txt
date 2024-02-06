@@ -1,2 +1,0 @@
-hello guys.... welcome
-committing from feature2 branch correctly
