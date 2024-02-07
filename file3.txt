@@ -1,2 +1,7 @@
 file3 in Dev
 updating file3 by Dev2
+
+developer1
+{
+    testing
+}
