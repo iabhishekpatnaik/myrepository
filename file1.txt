@@ -1,2 +1,6 @@
 file1 in Dev
 updating file1
+method 1
+{
+    dev1
+}
