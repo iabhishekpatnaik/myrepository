@@ -4,3 +4,8 @@ method 1
 {
     dev1
 }
+
+method2
+{
+    dev2
+}
