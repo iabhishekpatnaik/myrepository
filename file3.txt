@@ -3,5 +3,5 @@ updating file3 by Dev2
 
 developer1
 {
-    testing
+    testing from VM
 }
